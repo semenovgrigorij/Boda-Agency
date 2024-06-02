@@ -1,0 +1,14 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip714_4461">
+			<rect id="game-icons:check-mark" width="24.000000" height="24.000000" transform="translate(0.000000 -0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="game-icons:check-mark" width="24.000000" height="24.000000" transform="translate(0.000000 -0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip714_4461)">
+		<path id="Vector" d="M0.81 11.26C4.16 14.87 7.4 18.13 10.52 22.25C13.91 15.51 17.38 8.75 23.1 1.42L21.56 0.72C16.73 5.84 12.97 10.69 9.71 16.46C7.44 14.42 3.77 11.52 1.53 10.04L0.81 11.26Z" fill="#E8E8E8" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
